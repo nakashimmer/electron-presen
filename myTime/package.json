@@ -9,7 +9,7 @@
   "author": "Nakashima",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^11.5.0",
+    "electron": "^28.3.2",
     "electron-packager": "^14.0.3"
   }
 }
